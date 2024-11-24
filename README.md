@@ -99,6 +99,9 @@ InfluxDB requires data in a specific format called **line protocol**. A Python s
 
 ![Grafana_Dashboard](https://github.com/user-attachments/assets/0fb27164-dc9e-4bcc-b274-8289512c6e23)
 
+## **Video**
+
+https://github.com/user-attachments/assets/9a67bbf6-7c6e-489f-99f0-d79658cb8c0c
 
 ### **Key Questions Addressed**
 The Grafana dashboard was designed to answer the following **insightful questions** about the dataset:
